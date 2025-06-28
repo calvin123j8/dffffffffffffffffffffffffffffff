@@ -1106,6 +1106,12 @@
     },
     "done": true
   },
+  "minecraft:nether/obtain_crying_obsidian": {
+    "criteria": {
+      "crying_obsidian": "2025-06-28 23:31:36 +0000"
+    },
+    "done": true
+  },
   "nova_structures:adventure/find_illager_mansion": {
     "criteria": {
       "minecraft:woodland_mansion": "2025-06-28 23:21:52 +0000"
