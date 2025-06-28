@@ -11319,3 +11319,19 @@ com.google.gson.JsonSyntaxException: Unknown type 'alternative'
 [28Jun2025 22:54:18.894] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
 [28Jun2025 22:54:36.069] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2179ms or 43 ticks behind
 [28Jun2025 23:01:17.447] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 789123 was slain by Thornshell Crab
+[28Jun2025 23:02:23.093] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
+[28Jun2025 23:03:26.931] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 789123 has reached the goal [Shell Warrior]
+[28Jun2025 23:05:21.350] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <789123> zzz
+[28Jun2025 23:06:08.276] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2037ms or 40 ticks behind
+[28Jun2025 23:06:26.295] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
+[28Jun2025 23:06:39.667] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <789123> zz
+[28Jun2025 23:06:43.062] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <789123> z
+[28Jun2025 23:07:19.990] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: davisdrt lost connection: Disconnected
+[28Jun2025 23:07:19.990] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: davisdrt left the game
+[28Jun2025 23:07:25.714] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[28Jun2025 23:07:25.714] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: n<--[HERE]
+[28Jun2025 23:07:53.366] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[28Jun2025 23:07:53.366] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: k<--[HERE]
+[28Jun2025 23:08:03.508] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: davisdrt[/127.215.198.66:37469] logged in with entity id 67697 at (-299.4426934798789, 66.0, 11.389873194812475)
+[28Jun2025 23:08:03.524] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: davisdrt joined the game
+[28Jun2025 23:08:03.607] [Server thread/INFO] [Jade/]: Syncing config to davisdrt (74cb11a5-0b51-3278-a2bf-301ecf3b38d0)
