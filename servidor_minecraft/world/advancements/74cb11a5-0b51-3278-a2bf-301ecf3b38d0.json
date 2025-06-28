@@ -1092,5 +1092,17 @@
     },
     "done": true
   },
+  "knightquest:knightquest": {
+    "criteria": {
+      "requirement": "2025-06-28 21:45:12 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/dragon_horn": {
+    "criteria": {
+      "bestiary": "2025-06-28 21:44:13 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
