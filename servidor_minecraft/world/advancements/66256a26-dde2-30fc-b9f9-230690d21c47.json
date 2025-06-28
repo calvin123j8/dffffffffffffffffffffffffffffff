@@ -1492,5 +1492,11 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/acacia_blossom": {
+    "criteria": {
+      "acacia_blossom": "2025-06-28 21:51:19 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

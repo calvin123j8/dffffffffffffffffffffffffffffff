@@ -1081,21 +1081,9 @@
     },
     "done": true
   },
-  "alexsmobs:alexsmobs/leafcutter_ant_pupa": {
-    "criteria": {
-      "leafcutter_ant_pupa": "2025-06-28 21:43:47 +0000"
-    },
-    "done": true
-  },
   "minecraft:nether/brew_potion": {
     "criteria": {
       "potion": "2025-06-28 21:12:00 +0000"
-    },
-    "done": true
-  },
-  "alexsmobs:alexsmobs/acacia_blossom": {
-    "criteria": {
-      "acacia_blossom": "2025-06-28 21:44:19 +0000"
     },
     "done": true
   },
@@ -1105,9 +1093,21 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/leafcutter_ant_pupa": {
+    "criteria": {
+      "leafcutter_ant_pupa": "2025-06-28 21:43:47 +0000"
+    },
+    "done": true
+  },
   "iceandfire:iceandfire/dragon_staff": {
     "criteria": {
       "bestiary": "2025-06-28 21:44:17 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/acacia_blossom": {
+    "criteria": {
+      "acacia_blossom": "2025-06-28 21:44:19 +0000"
     },
     "done": true
   },
