@@ -605,7 +605,8 @@
   },
   "nova_structures:adventure/find_all_illager_structures": {
     "criteria": {
-      "illager_camp": "2025-01-08 19:16:41 +0000"
+      "illager_camp": "2025-01-08 19:16:41 +0000",
+      "mansion": "2025-06-28 23:21:52 +0000"
     },
     "done": false
   },
@@ -1102,6 +1103,12 @@
   "knightquest:knightquest": {
     "criteria": {
       "requirement": "2025-06-28 21:45:12 +0000"
+    },
+    "done": true
+  },
+  "nova_structures:adventure/find_illager_mansion": {
+    "criteria": {
+      "minecraft:woodland_mansion": "2025-06-28 23:21:52 +0000"
     },
     "done": true
   },

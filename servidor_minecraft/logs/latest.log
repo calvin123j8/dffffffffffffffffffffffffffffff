@@ -11356,3 +11356,7 @@ com.google.gson.JsonSyntaxException: Unknown type 'alternative'
 [28Jun2025 23:21:32.293] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
 [28Jun2025 23:21:49.453] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2163ms or 43 ticks behind
 [28Jun2025 23:21:52.232] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: davisdrt has made the advancement [Deep in the Dark Woodland]
+[28Jun2025 23:24:55.024] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kevin123j2 was killed by Evoker using magic
+[28Jun2025 23:28:37.827] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: davisdrt was slain by kevin123j2
+[28Jun2025 23:31:07.718] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jos3enriq was slain by Cleric
+[28Jun2025 23:31:36.788] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: davisdrt has made the advancement [Who is Cutting Onions?]
