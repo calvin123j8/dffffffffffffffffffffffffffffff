@@ -10982,3 +10982,54 @@ com.google.gson.JsonSyntaxException: Unknown type 'alternative'
 [28Jun2025 21:17:45.459] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Yoko'/18909, l='ServerLevel[world]', x=-9.06, y=-20.00, z=-2870.01] died, message: 'Yoko tried to swim in lava to escape Undead Miner'
 [28Jun2025 21:17:45.459] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Yoko'/18909, l='ServerLevel[world]', x=-9.06, y=-20.00, z=-2870.01] died: Yoko tried to swim in lava to escape Undead Miner
 [28Jun2025 21:17:50.810] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Jos3enriq moved too quickly! -9.631462716233528,1.495200877005928,3.1613116275896083
+[28Jun2025 21:17:59.795] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Lashonda'/18906, l='ServerLevel[world]', x=42.32, y=-20.00, z=-2847.61] died, message: 'Lashonda was slain by Undead Miner'
+[28Jun2025 21:17:59.796] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Lashonda'/18906, l='ServerLevel[world]', x=42.32, y=-20.00, z=-2847.61] died: Lashonda was slain by Undead Miner
+[28Jun2025 21:18:12.136] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 16847ms or 336 ticks behind
+[28Jun2025 21:18:20.464] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Alphonso'/18758, l='ServerLevel[world]', x=36.46, y=-27.00, z=-2855.53] died, message: 'Alphonso was slain by Cave Centipede'
+[28Jun2025 21:18:20.465] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Alphonso'/18758, l='ServerLevel[world]', x=36.46, y=-27.00, z=-2855.53] died: Alphonso was slain by Cave Centipede
+[28Jun2025 21:18:34.509] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombieVillager['Lashonda'/20881, l='ServerLevel[world]', x=54.83, y=-20.00, z=-2846.18] died: Lashonda was slain by Clay Golem
+[28Jun2025 21:18:37.969] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10879ms or 217 ticks behind
+[28Jun2025 21:18:39.269] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 789123 has made the advancement [How long's this been here?]
+[28Jun2025 21:19:02.307] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9368ms or 187 ticks behind
+[28Jun2025 21:19:26.896] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9607ms or 192 ticks behind
+[28Jun2025 21:19:50.864] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8974ms or 179 ticks behind
+[28Jun2025 21:20:09.661] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[28Jun2025 21:20:09.672] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: k<--[HERE]
+[28Jun2025 21:20:15.552] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9712ms or 194 ticks behind
+[28Jun2025 21:20:39.851] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9312ms or 186 ticks behind
+[28Jun2025 21:20:55.964] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Alexis'/19020, l='ServerLevel[world]', x=78.85, y=72.76, z=-2591.46] died, message: 'Alexis was slain by Fire Dragon'
+[28Jun2025 21:20:55.965] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Alexis'/19020, l='ServerLevel[world]', x=78.85, y=72.76, z=-2591.46] died: Alexis was slain by Fire Dragon
+[28Jun2025 21:21:05.376] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10536ms or 210 ticks behind
+[28Jun2025 21:21:11.733] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 789123 was slain by Cyclops
+[28Jun2025 21:21:11.838] [Netty Epoll Server IO #7/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[28Jun2025 21:21:11.839] [Netty Epoll Server IO #7/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 3 is dual wielding: false
+[28Jun2025 21:21:11.840] [Netty Epoll Server IO #7/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 0 air
+[28Jun2025 21:21:11.840] [Netty Epoll Server IO #7/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 0 air
+[28Jun2025 21:21:11.840] [Netty Epoll Server IO #7/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 4 | client: 4
+[28Jun2025 21:21:32.139] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 11800ms or 236 ticks behind
+[28Jun2025 21:21:57.757] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10618ms or 212 ticks behind
+[28Jun2025 21:22:17.932] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 789123 was slain by Cyclops
+[28Jun2025 21:22:21.399] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8660ms or 173 ticks behind
+[28Jun2025 21:22:33.122] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kevin123j2 has made the advancement [Knight Quest]
+[28Jun2025 21:22:44.100] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7711ms or 154 ticks behind
+[28Jun2025 21:22:53.183] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Britt'/18755, l='ServerLevel[world]', x=41.60, y=-30.00, z=-2863.35] died, message: 'Britt was slain by Rodolfo'
+[28Jun2025 21:22:53.184] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Britt'/18755, l='ServerLevel[world]', x=41.60, y=-30.00, z=-2863.35] died: Britt was slain by Rodolfo
+[28Jun2025 21:23:05.811] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6721ms or 134 ticks behind
+[28Jun2025 21:23:29.671] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8882ms or 177 ticks behind
+[28Jun2025 21:23:53.447] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8807ms or 176 ticks behind
+[28Jun2025 21:24:19.341] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10902ms or 218 ticks behind
+[28Jun2025 21:24:35.036] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 789123 burned to death
+[28Jun2025 21:24:36.862] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/22621, l='ServerLevel[world]', x=84.03, y=72.75, z=-2575.96]
+[28Jun2025 21:24:36.863] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/22629, l='ServerLevel[world]', x=84.34, y=72.02, z=-2575.84]
+[28Jun2025 21:24:36.863] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/22630, l='ServerLevel[world]', x=84.39, y=71.73, z=-2574.53]
+[28Jun2025 21:24:47.270] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 12930ms or 258 ticks behind
+[28Jun2025 21:25:11.731] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9491ms or 189 ticks behind
+[28Jun2025 21:25:37.406] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10716ms or 214 ticks behind
+[28Jun2025 21:26:02.241] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9851ms or 197 ticks behind
+[28Jun2025 21:26:11.504] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: kevin123j2 moved too quickly! -9.46248039756221,-0.2712241076924897,3.977978480183083
+[28Jun2025 21:26:27.473] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10233ms or 204 ticks behind
+[28Jun2025 21:26:50.229] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7790ms or 155 ticks behind
+[28Jun2025 21:27:17.409] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 12219ms or 244 ticks behind
+[28Jun2025 21:27:45.657] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 13267ms or 265 ticks behind
+[28Jun2025 21:28:05.906] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kevin123j2 was doomed to fall
+[28Jun2025 21:28:10.657] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10018ms or 200 ticks behind
