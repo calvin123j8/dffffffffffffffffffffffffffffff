@@ -1074,5 +1074,17 @@
     },
     "done": true
   },
+  "knightquest:knightquest": {
+    "criteria": {
+      "requirement": "2025-06-28 21:10:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/brew_potion": {
+    "criteria": {
+      "potion": "2025-06-28 21:12:00 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
