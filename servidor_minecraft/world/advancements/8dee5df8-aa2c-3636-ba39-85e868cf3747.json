@@ -551,7 +551,8 @@
   "nova_structures:adventure/find_all_illager_structures": {
     "criteria": {
       "pillager_outpost": "2025-01-16 23:25:34 +0000",
-      "illager_camp": "2025-01-09 23:20:55 +0000"
+      "illager_camp": "2025-01-09 23:20:55 +0000",
+      "mansion": "2025-06-28 23:19:36 +0000"
     },
     "done": false
   },
@@ -1114,6 +1115,12 @@
   "born_in_chaos_v1:shell_warrior": {
     "criteria": {
       "shell_warrior_0": "2025-06-28 23:03:26 +0000"
+    },
+    "done": true
+  },
+  "nova_structures:adventure/find_illager_mansion": {
+    "criteria": {
+      "minecraft:woodland_mansion": "2025-06-28 23:19:36 +0000"
     },
     "done": true
   },

@@ -780,7 +780,8 @@
     "criteria": {
       "swamp_village": "2025-01-18 01:32:06 +0000",
       "pillager_outpost": "2025-01-17 00:56:48 +0000",
-      "illager_camp": "2025-01-10 01:52:31 +0000"
+      "illager_camp": "2025-01-10 01:52:31 +0000",
+      "mansion": "2025-06-28 23:19:25 +0000"
     },
     "done": false
   },
@@ -1324,6 +1325,12 @@
   "alexsmobs:alexsmobs/kangaroo": {
     "criteria": {
       "killed_by": "2025-06-28 22:18:38 +0000"
+    },
+    "done": true
+  },
+  "nova_structures:adventure/find_illager_mansion": {
+    "criteria": {
+      "minecraft:woodland_mansion": "2025-06-28 23:19:25 +0000"
     },
     "done": true
   },
