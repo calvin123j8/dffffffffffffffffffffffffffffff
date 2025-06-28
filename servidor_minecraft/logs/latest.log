@@ -10798,3 +10798,58 @@ com.google.gson.JsonSyntaxException: Unknown type 'alternative'
 [28Jun2025 20:52:43.103] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10663ms or 213 ticks behind
 [28Jun2025 20:53:08.263] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10173ms or 203 ticks behind
 [28Jun2025 20:53:33.758] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10519ms or 210 ticks behind
+[28Jun2025 20:54:00.067] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <789123> -416/65/-3192
+[28Jun2025 20:54:10.330] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 21591ms or 431 ticks behind
+[28Jun2025 20:54:15.860] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: davisdrt has made the advancement [How long's this been here?]
+[28Jun2025 20:54:39.252] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: kevin123j2 moved too quickly! -9.69276901813987,0.0,2.472245622610444
+[28Jun2025 20:54:39.572] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: davisdrt moved too quickly! 8.833975735991416,4.998664020887858,-0.3809087618017202
+[28Jun2025 20:54:48.868] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[28Jun2025 20:54:48.869] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: k<--[HERE]
+[28Jun2025 20:55:24.457] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 59168ms or 1183 ticks behind
+[28Jun2025 20:55:30.044] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[28Jun2025 20:55:30.045] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: h<--[HERE]
+[28Jun2025 20:55:42.985] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <davisdrt> -57/72/-1884
+[28Jun2025 20:55:48.860] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: davisdrt lost connection: Disconnected
+[28Jun2025 20:55:48.860] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: davisdrt left the game
+[28Jun2025 20:55:59.760] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 20320ms or 406 ticks behind
+[28Jun2025 20:56:23.835] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9096ms or 181 ticks behind
+[28Jun2025 20:56:48.434] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9644ms or 192 ticks behind
+[28Jun2025 20:57:17.409] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 14019ms or 280 ticks behind
+[28Jun2025 20:57:41.159] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8769ms or 175 ticks behind
+[28Jun2025 20:58:04.941] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8801ms or 176 ticks behind
+[28Jun2025 20:58:29.472] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9533ms or 190 ticks behind
+[28Jun2025 20:58:49.729] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5289ms or 105 ticks behind
+[28Jun2025 20:59:03.730] [Worker-Main-3/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. MutableBlockPos{x=-549, y=-36, z=-3264}
+[28Jun2025 20:59:11.126] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6437ms or 128 ticks behind
+[28Jun2025 20:59:15.422] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityAmphithere['Amphithere'/12938, l='ServerLevel[world]', x=-544.36, y=116.50, z=-3199.86]
+[28Jun2025 20:59:30.641] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4551ms or 91 ticks behind
+[28Jun2025 20:59:39.025] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[28Jun2025 20:59:39.025] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: k<--[HERE]
+[28Jun2025 20:59:53.160] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7521ms or 150 ticks behind
+[28Jun2025 21:00:16.889] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8750ms or 175 ticks behind
+[28Jun2025 21:00:31.051] [Worker-Main-1/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id friendsandfoes:iceologer
+[28Jun2025 21:00:38.264] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.heightproviders.UniformHeight/]: Empty height range: [-33 absolute--50 absolute]
+[28Jun2025 21:00:40.463] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8574ms or 171 ticks behind
+[28Jun2025 21:01:05.383] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9944ms or 198 ticks behind
+[28Jun2025 21:01:09.218] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <789123> -401.300/65.000000000/-3190.300
+[28Jun2025 21:01:24.996] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[28Jun2025 21:01:25.030] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: g<--[HERE]
+[28Jun2025 21:01:33.506] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: kevin123j2 moved too quickly! 7.845544157244547,-0.395575898673286,-6.676781195588774
+[28Jun2025 21:01:34.234] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 13895ms or 277 ticks behind
+[28Jun2025 21:01:55.202] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6013ms or 120 ticks behind
+[28Jun2025 21:02:08.267] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=216, y=47, z=211}
+[28Jun2025 21:02:18.054] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7865ms or 157 ticks behind
+[28Jun2025 21:02:37.114] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4074ms or 81 ticks behind
+[28Jun2025 21:02:58.014] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5925ms or 118 ticks behind
+[28Jun2025 21:03:24.107] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 11118ms or 222 ticks behind
+[28Jun2025 21:03:44.627] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5537ms or 110 ticks behind
+[28Jun2025 21:04:04.993] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5404ms or 108 ticks behind
+[28Jun2025 21:04:25.621] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5632ms or 112 ticks behind
+[28Jun2025 21:04:46.807] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6218ms or 124 ticks behind
+[28Jun2025 21:05:06.473] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4684ms or 93 ticks behind
+[28Jun2025 21:05:26.990] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5551ms or 111 ticks behind
+[28Jun2025 21:05:47.729] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5740ms or 114 ticks behind
+[28Jun2025 21:06:07.875] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5186ms or 103 ticks behind
+[28Jun2025 21:06:28.277] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5438ms or 108 ticks behind
+[28Jun2025 21:06:49.334] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6095ms or 121 ticks behind
+[28Jun2025 21:07:10.069] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5780ms or 115 ticks behind

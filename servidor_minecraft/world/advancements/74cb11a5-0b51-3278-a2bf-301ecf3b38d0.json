@@ -195,6 +195,7 @@
       "minecraft:river": "2025-01-08 17:08:02 +0000",
       "atmospheric:atmospheric:laurel_forest": "2025-02-04 18:49:07 +0000",
       "minecraft:lukewarm_ocean": "2025-02-07 00:17:46 +0000",
+      "minecraft:stony_shore": "2025-06-28 20:52:37 +0000",
       "minecraft:dripstone_caves": "2025-01-18 21:40:24 +0000",
       "atmospheric:atmospheric:rainforest_basin": "2025-02-07 21:06:45 +0000",
       "atmospheric:atmospheric:rainforest": "2025-02-07 20:29:45 +0000",
@@ -208,6 +209,7 @@
       "minecraft:ocean": "2025-01-08 16:30:12 +0000",
       "minecraft:jungle": "2025-02-07 20:31:18 +0000",
       "minecraft:old_growth_spruce_taiga": "2025-02-04 18:57:08 +0000",
+      "minecraft:windswept_savanna": "2025-06-28 20:49:30 +0000",
       "minecraft:deep_lukewarm_ocean": "2025-02-07 00:18:12 +0000",
       "minecraft:flower_forest": "2025-01-08 17:51:29 +0000",
       "environmental:environmental:marsh": "2025-02-07 21:20:01 +0000",
@@ -632,6 +634,7 @@
   },
   "hopo:minecraft/adventure/locate_all_underwater_structures": {
     "criteria": {
+      "locate_underwater_fossil": "2025-06-28 20:50:53 +0000",
       "locate_underwater_small_ruins": "2025-01-08 23:00:41 +0000",
       "locate_ruin_cold": "2025-01-08 20:03:21 +0000",
       "locate_underwater_warm_small_ruins": "2025-02-07 01:59:45 +0000"
@@ -1082,6 +1085,12 @@
       "yellow": "2025-02-07 20:42:22 +0000"
     },
     "done": false
+  },
+  "irons_spellbooks:irons_spellbooks/spell_book_rotten": {
+    "criteria": {
+      "requirement": "2025-06-28 20:54:15 +0000"
+    },
+    "done": true
   },
   "DataVersion": 3465
 }

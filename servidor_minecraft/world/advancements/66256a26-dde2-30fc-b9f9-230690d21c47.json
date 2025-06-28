@@ -1472,15 +1472,15 @@
     },
     "done": true
   },
-  "alexsmobs:alexsmobs/banana": {
-    "criteria": {
-      "banana": "2025-02-07 20:49:58 +0000"
-    },
-    "done": true
-  },
   "alexsmobs:alexsmobs/leafcutter_ant_pupa": {
     "criteria": {
       "leafcutter_ant_pupa": "2025-02-07 20:39:49 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/banana": {
+    "criteria": {
+      "banana": "2025-02-07 20:49:58 +0000"
     },
     "done": true
   },
